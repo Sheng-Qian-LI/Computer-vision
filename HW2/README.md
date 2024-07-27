@@ -1,4 +1,4 @@
-### Please refer to the HW1.pdf for details.
+### Please refer to the HW2.pdf for details.
 
 # **HW2 :  Structure from Motion(SfM)**  
 
