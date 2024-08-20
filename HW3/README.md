@@ -1,4 +1,4 @@
-### Please refer to the HW3.pdf for details.
+### 📌Please refer to the HW3.pdf for details.
 
 # **HW3 : Big vs Small Models**  
 
